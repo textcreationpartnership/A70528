@@ -1,0 +1,266 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last words of Thomas Lord Pride taken in short-hand by T.S., late clerk to his Lordship's brew-house.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70528</idno>
+            <idno type="STC">Wing L534A</idno>
+            <idno type="STC">ESTC R41176</idno>
+            <idno type="EEBO-CITATION">09574520</idno>
+            <idno type="OCLC">ocm 09574520</idno>
+            <idno type="VID">43694</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70528)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43694)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1338:5, 1742:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last words of Thomas Lord Pride taken in short-hand by T.S., late clerk to his Lordship's brew-house.</title>
+                  <author>T. S.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire.</note>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: copy at reel 1338:5 has pages cropped with some loss of print and has Huntington Library copy spliced at end; copy at reel 1742:27 creased and stained.</note>
+                  <note>This item appears at reel 1338:5 as Wing P3411 (number cancelled in Wing 2nd ed.), and at reel 1742:27 as Wing (2nd ed.) L534A.</note>
+                  <note>Reproduction of originals in the Harvard University Library, Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pride, Thomas, d. 1658 --  Humor.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:43694:1"/>
+            <head>The laſt WORDS <hi>OF THOMAS Lord PRIDE,</hi> Taken in Short hand by <hi>T. S.</hi> late Clerk to his Lordſhip's <hi>Brew-houſe.</hi>
+            </head>
+            <opener>
+               <salute>My good Friends and Neighbours,</salute>
+            </opener>
+            <p>YOu are come (I thank you) to ſee me dye: and let me re<g ref="char:EOLhyphen"/>queſt you to take my laſt Breath. I'll no ſet Speech; the <hi>long Parliament</hi> loaded you with thoſe; (ſo many Speeches as, if orderly burnt, would brew two hundred Quarters of Malt:) &amp; had ſate <hi>ſpeeching</hi> ſtill, if his late <hi>Highneſs</hi> had not bad to <hi>Vn<g ref="char:EOLhyphen"/>houſe</hi> them. I ſpake none, neither in the <hi>Commons,</hi> nor in the <hi>other Houſe:</hi> and yet I muſt either <hi>now ſpeak or elſe hereafter for ever hold my peace.</hi> My Conſcience, 'tis my Conſcience ſpeaks: And the firſt thing that is upon my ſpirit is the <hi>Killing of the Beares,</hi> for which the people bait <hi>m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and call me all the names in the Rain-bow. But did not <hi>David</hi> kill a Bear? did not the Lord Deputy <hi>Ireton</hi> kill a Bear? did not ano<g ref="char:EOLhyphen"/>ther Lord of ours kill five Beares and five Fidlers? may Beares be kill'd in <hi>Nottingham,</hi> in <hi>Leyceſter,</hi> and not in <hi>Surrey?</hi> You know <hi>I</hi> was high Sheriff of the County, and if I might not kill a few Bears why was I made Sheriff? I thought it our intereſt to let nothing live that would fight; and therefore we made an <hi>Act</hi> againſt <hi>Gock maches:</hi> others have kill'd far greater things with leſſe Commiſſion. But per<g ref="char:EOLhyphen"/>haps they'll ſay I ſtrook at the <hi>Prerogative;</hi> for <hi>Kings</hi> and <hi>Protectors</hi> have a Priviledge when they find a good Maſtive Dog, to clap their collar upon him and uſe him for the Game; and ſo if kill the Beares, hang the Dogs, no Bear no Dog. But think you the <hi>Preroga<g ref="char:EOLhyphen"/>tive</hi> would reach to <hi>Beares?</hi> or that <hi>Great Britain</hi> were the <hi>Iſle of Dogs?</hi> are we, like S<hi rend="sup">t</hi>. <hi>Mallowes,</hi> guarded by Maſtives? the <hi>French</hi> have ever made us their <hi>Apes,</hi> and u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>till we follow their <hi>Doggs</hi> too? If an <hi>Engliſh</hi> Maſtive get whelps in <hi>France</hi> they all prove <hi>Curres;</hi> (I wiſh our <hi>Engliſh</hi> Souldiers there may never turn <hi>French.</hi>) Can we forget that horrid Ac<g ref="char:EOLhyphen"/>cident when Major Generall <hi>Skippon</hi> came in a Horſe-licter wounded to <hi>London?</hi> when he paſs'd by the Brew-houſe near S. <hi>John's</hi> ſtreet, a Devilliſh Maſtive flew (as at a Bear) at one of his Horſes, and held him ſo faſt by the ſtones, that the Horſe grew mad as a <hi>mad dogg,</hi> the Souldiers ſo amaz'd that none had the wit to ſhoot the Maſtive, but the Horſe-licter born between two Horſes toſs'd the Major Generall like a Dog in a Blanket. Thus your Dogs uſe <hi>Horſe</hi> and <hi>Man:</hi> And for
+<pb n="2" facs="tcp:43694:2"/> Women, remember now <hi>Swaſh</hi> the abominable Maſtive took a <hi>diſpen<g ref="char:EOLhyphen"/>ſation</hi> with an <hi>Elder's</hi> Maid. Nay, not a <hi>Sow</hi> in the ſtreets by night, but the Watchmen's Dogs ſteal privately to her, which makes your <hi>Lon<g ref="char:EOLhyphen"/>don</hi>-Piggs have ſuch round heads: and when I my ſelf had my firſt Brew-houſe (which was at <hi>Pye-corner</hi>) I heard a Pig bark, where<g ref="char:EOLhyphen"/>by I knew 'twas a City Pig. Here's a ſweet ſtir with Beares and Dogs, able to make a wiſe-man mad: for firſt they pretend to preſerve their <hi>Dogs,</hi> yet rayl at me for ſhooting the Beares that <hi>kill</hi> thoſe Dogs; and then tax me for killing the Beares, yet ſet their Dogs to tear the Beares in pieces. Yes, and the Man that ow'd the Beares now ſues me for deſtroying his Goods. but what the Devil are Beares good for? They bragg of a <hi>Weapon-ſalve</hi> made forſooth of the fat of Beares killd in the Act of Generation, (though Beares never generate but by night when none can know it:) my Sword hath made ſome Wounds, let them anoynt the blade of my Sword and try how many Cavaliers 'twill cure. The Devill has a hand or a foot in this <hi>Salve</hi> if it come from <hi>Beares:</hi> for, you know the Beaſt with ſeaven heads and ten hornes had the <hi>foot of a Beare,</hi> whence peo<g ref="char:EOLhyphen"/>ple ſay <hi>a Beare has the Divel's foot:</hi> You think I meane the <hi>Beare at the Bridgefoot</hi> (for <hi>God ſends meat and the Devil ſends GOOKS:</hi>) I mean a Limb of the Devil, and is it a ſin to deſtroy the Devil? <hi>George,</hi> was Sainted for killing a <hi>Dragon; (Saints</hi> of old like honeſt <hi>George</hi> us'd to kill <hi>Beasts,</hi> but now <hi>Saints</hi> commonly kill <hi>men;</hi>) the <hi>Dra<g ref="char:EOLhyphen"/>gon</hi> and <hi>Bear</hi> are Pictures of the ſame; for the <hi>Devil</hi> hath divers Sutes to put on; he wears not onely the <hi>Beaſt</hi> (a <hi>red Dragon,</hi> an <hi>Otter,</hi> a <hi>Bear</hi>) but a very Man, a Woman, in Silks, in Buff, in a long Mourn<g ref="char:EOLhyphen"/>ing Cloak (to hide his cloven foot) and too often a <hi>Saint</hi> or <hi>Angel</hi> of new <hi>light;</hi> yet then ſo like as one Devil to another. An Au<g ref="char:EOLhyphen"/>thor of Ours ſaid the Beaſt's <hi>ten hornes</hi> are the <hi>Kings</hi> of <hi>Europe;</hi> which may bee the reaſon why the <hi>Members</hi> that voted againſt a <hi>King</hi> were ſo hot for <hi>Decimation:</hi> thoſe <hi>Members</hi> were not the <hi>major part,</hi> but the <hi>Major Generall part:</hi> I confeſs that <hi>Author</hi> wrote after the <hi>King</hi> was beheaded, when our <hi>Liberties</hi> ſtood commit<g ref="char:EOLhyphen"/>ted to ſeverall <hi>Keepers.</hi> And yet I would know that <hi>Member's</hi> name that would not be a King: every creature (above and below) hath a Monarch in his belly: the <hi>Devil</hi> would fain have bin King of <hi>Heaven,</hi> and <hi>Adam</hi> ſcorn'd to be King of the <hi>Earth,</hi> and each of his ſonnes would be King of all the reſt. And (to ſpeak my Conſcience) if the <hi>State</hi> ſhould vouchſafe to name me King, I think I ſhould not queſtion the Elections no, though it were (as I hear the <hi>Perſians</hi> once choſe a
+<pb n="3" facs="tcp:43694:2"/> King) <hi>by the neighing of a horſe.</hi> But he that hath Horſe may ſoon be a King; and therefore I love to ſave my Horſe; but why with a vengeance ſhould we ſave <hi>Beares</hi> that <hi>feed</hi> upon <hi>Horſe-fleſh?</hi> My Phyſician ſay's that an old fellow one <hi>Pliny</hi> told him, that <hi>a piece of Beares fleſh will grow b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gger by boyling;</hi> wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch ſhewes the Devil and his Damme is in <hi>Beares;</hi> for all things elſe will boyl away to no<g ref="char:EOLhyphen"/>thing: had all my <hi>Beer</hi> had a good ſound <hi>boyling,</hi> I had not dyed worth a pound of Hopps. Are theſe your <hi>Beasts of the Game?</hi> I pro<g ref="char:EOLhyphen"/>feſſe I hate <hi>Gaming,</hi> there's an <hi>Act</hi> againſt it, though ſome of <hi>our own</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lay deep as any, and the Gameſters made Di<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of ſome of <hi>Their</hi> bones who made that <hi>Act;</hi> (O who can tell how a man is us'd when once he comes to be <hi>a dry bone!</hi>) Something there is that Dice run now more falſe then ever, that ſo many new curſes follow thoſe Bones. Perhaps the <hi>Beares</hi> come not within the Ring of this Act againſt <hi>Gaming,</hi> yet both Dog and Bear are within the liſts of the Act againſt <hi>Duells;</hi> and though they are out of the Act of <hi>Oblivion,</hi> yet ſome new <hi>Juſtices</hi> brought them within the Act for <hi>Marriages.</hi> 'Tis confeſſ'd they fight but not for us; they are no part of the <hi>militia,</hi> and never paid ſo much as <hi>Pole money:</hi> they never with Lions were ad<g ref="char:EOLhyphen"/>mitted into the <hi>Tower,</hi> nor ſhew'd at <hi>Weſtminſter</hi> among the <hi>fine Sights;</hi> nor ever reckon'd among the <hi>Crown Jewels.</hi> There were <hi>Propoſitions</hi> for bringing in <hi>Plate, mony,</hi> and <hi>Horſe,</hi> but not for <hi>Beares.</hi> And yet now muſt <hi>England</hi> turn <hi>Greenland?</hi> the War has made it <hi>Red Land,</hi> and Funerals make it <hi>black Land,</hi> &amp; our <hi>Miniſters</hi> make it <hi>blew Land.</hi> But if I never anſwer for killing any thing but <hi>Beares</hi> I ſhall do well enough: Were I arraign'd, it could not be <hi>Murther,</hi> but <hi>Beare-ſlaughter:</hi> nay I killd them in my <hi>own defence,</hi> for they would have killd mee; which is more then can be ſaid for putting many a thouſand to death. O but they ſay <hi>I</hi> killd them not <hi>fairly,</hi> but <hi>ſhot</hi> them dead in <hi>cold blood?</hi> And am <hi>I</hi> the firſt that did ſo? have wee not done it over and over? <hi>I</hi> kild them as wee killd <hi>Lucas</hi> and <hi>Liſle,</hi> two as brave men as the <hi>King</hi> had any: what? would they have mee <hi>bayt</hi> them to death? do <hi>I</hi> look like a <hi>Beare-ward?</hi> or ſhould <hi>I</hi> knock them in the head like an Oxe? there is a <hi>Major Generall</hi> can do that better then I. I remember one (now a great Lord) who ſpeaking againſt <hi>Strafford,</hi> ſaid, <hi>Beaſts of Prey ought to have no Law:</hi> ſhall wee grant that to <hi>Beares</hi> which wee deny'd to <hi>Strafford?</hi> A Cavalier told mee that this was but a Quibble upon the word <hi>Law,</hi> for there is (ſaid hee) no <hi>Law</hi> for <hi>Beasts,</hi> but that a man may kill them for his uſe, and the more <hi>ſudden</hi> and leſs <hi>payn</hi> the better, and if a Hare or Stag have <hi>Law,</hi> that is, liberty to run, 'tis not for <hi>their</hi> but for <hi>our</hi> ſakes, to prolong our ſport in their deſtru<g ref="char:EOLhyphen"/>ction.
+<pb n="4" facs="tcp:43694:3"/> However that Quibble was ſeaſonable then, and did our wor<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon <hi>Strafford</hi> and <hi>Canterbury.</hi> But mark how both ſides plead ſo mee; the one ſay's, <hi>Beaſts of Prey muſt have no Law;</hi> the other ſay's <hi>There is no Law for Beaſts:</hi> ſo both ſay 'tis <hi>lawfull</hi> for mee to kill the <hi>Beares.</hi> No matter how; hang them, ſhoot them, chop of their heads, ſend them to <hi>Jamaica,</hi> any way is beſt. For can there be Beaſts more <hi>Malignant</hi> then <hi>Beares?</hi> I look'd but in my Almanack, and there I found two <hi>Doggs</hi> and two <hi>Bears</hi> among the <hi>Starrs;</hi> and thoſe I dare ſay are <hi>Malignant Starrs;</hi> for within two lines the <hi>great Beare</hi> is call<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Charles Wayn.</hi> By this you'l imagine <hi>Malignants</hi> are in <hi>Heaven;</hi> but wee and they ſhall ſcarce meet in one place: for els t'were madneſs in us to kill them, becauſe thereby wee ſend them to bee happy. But They as well as Wee would fain live; and would have good Eſtates as they had before, and as Wee have now: 'tis in our Power whether They ſhall live but not whether wee our ſelves ſhall dye; for though our <hi>Army</hi> bee as ſtrong to day as yeſterday, yet our own Bodies draw nearer Death. Behold it in mee: and remember <hi>Naſeby,</hi> which made us what wee are; how the <hi>King's</hi> beſt men, when the Victory was Theirs, took a bottomleſs fancy of running all away, having done the like before at <hi>Marſton moore.</hi> I have known ſix-thouſand (and no Cowards neither) fly all like Bedlems when no enemy was within ſeaventeen miles, and if they were all exam<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n'd upon Oath they could not tell why. And they ſay that one poor wooden Horſe at <hi>Troy</hi> did more then all our Army in the <hi>Indies.</hi> 'Tis certain no <hi>Woman</hi> is ſo fickle as an <hi>Army.</hi> I ſpeake not for my ſelf; for 'tis well known I have done my part; ſure I have killd better things than <hi>Beares;</hi> and killd them as men <hi>ſhould</hi> bee killd, eyther in the <hi>field</hi> or in a <hi>High Court of Justice:</hi> the beſt <hi>Cavalier</hi> among them all (the <hi>King</hi> himſelf) I Judg'd to the <hi>Block;</hi> my Lord <hi>Hewſon</hi> is my witneſs, for hee ſate next to mee. Per<g ref="char:EOLhyphen"/>haps they think my Lord <hi>Hewſon</hi> and I not fit to bee <hi>Judges</hi> becauſe of our Trades; but let them ſhew mee one Text of Scripture where <hi>Brew<g ref="char:EOLhyphen"/>ers</hi> and <hi>Shoomakers</hi> are forbidden to bee <hi>Judges.</hi> I confeſs in Juries of Life and Death wee except againſt a <hi>Butcher</hi> as blooded in ſlaying of ſheep and Calves; but if hee onely kill <hi>Beares</hi> and <hi>Men</hi> hee may bee either a <hi>Juror</hi> or a <hi>Judge.</hi> I knew a <hi>Judge</hi> did uſe to mend <hi>Stockings;</hi> (I ſpare his name becauſe hee did a Buſineſs for mee) and 'tis as law<g ref="char:EOLhyphen"/>full to mend <hi>Shooes</hi> as <hi>Stockings,</hi> and if a <hi>Judge</hi> may bee a <hi>Cobler,</hi> a <hi>Cobler</hi> may bee a <hi>Judge.</hi> As for mee, 'tis true I have born a <hi>Sling;</hi> which made a Knave call me Sr <hi>Thomas Slingsby;</hi> but I made the <hi>Slingsbies</hi> ſhorter for it by one, and that one ſhorter by the Head; and had done as much for young <hi>Mordant,</hi> but that (having drank White-wine
+<pb n="5" facs="tcp:43694:3"/> that morning) I ſtept forth to the Wall, and before I could return, <hi>Mor<g ref="char:EOLhyphen"/>dant</hi> was quit. Thus the Life of Man is but a piſſing while. But what if I have born a <hi>Sling?</hi> did not <hi>David</hi> ſo too? the difference is, Hee laid by his <hi>Sword</hi> and took up a <hi>Sling,</hi> and I layd by my <hi>Sling</hi> and took up a <hi>Sword.</hi> Kings, Lords and Gentlemen take mony for their Land; o<g ref="char:EOLhyphen"/>thers ſow it and ſell the Corn to us; wee advance it to good Beer and Ale, and then ſell the Drink to thoſe Kings, Lords and Gentlemen; and thus the Cup goes round. <hi>They</hi> ſell for mony, and <hi>Wee</hi> ſell for mo<g ref="char:EOLhyphen"/>ny; and if a <hi>Shilling</hi> had a <hi>Tongue</hi> as well as a <hi>Face,</hi> it would ſay, <hi>Sir, I am but twelve pence whether you meet mee in the Brewhouſe or in the Exchequer.</hi> 'Tis true, there are divers ſorts of <hi>Shillings:</hi> ſome are <hi>Braſs;</hi> impudent Rogues, who when di<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>covered are nayl'd to a Poſt: ſome are <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ead,</hi> heavy dull Beaſts that will not goe: others are right Metall but <hi>clipt,</hi> poor <hi>decimated</hi> things that would goe and cannot. But Braſs is B<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſs and Silver is Silver at <hi>Court</hi> and at <hi>Pye-corner.</hi> I was as wa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m in my Leather Jacket as in my <hi>Scarlet Cloak.</hi> 'Tis ſtrange what an eye-ſore that <hi>Cloak</hi> was to ſome, as if the Garment it ſelf could ſin<g ref="char:punc">▪</g> indeed wee had a man that uſ'd to hang his Cloke in my Brew-houſe (as Country folk hang <hi>Wooll</hi> over pales of Wa<g ref="char:EOLhyphen"/>ter to make it <hi>weight:</hi>) and ſo though not Hee, yet his <hi>Cloak</hi> was a Drunkard. But Cloake or Jacket I was the ſame man: I never deny'd, but ſtill kept my Trade, (and if others had done ſo, a hundred thouſand Lives had bin ſav'd) at laſt I got to be <hi>Brewer</hi> to the <hi>Navy;</hi> and if each man had drank like the Whale at <hi>Greenwich</hi> I could have fill'd them all: for I had three Brew-houſes, one at <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> another at <hi>Kingſton,</hi> and a third at <hi>Edenburgh.</hi> And why not I have three <hi>Brew-houſes</hi> as well as <hi>Aſſembly-men</hi> three <hi>Benefices?</hi> they were my <hi>Livelyhood</hi> as theirs were their <hi>Livings.</hi> One of thoſe fellowes at <hi>Margarets Westminſter</hi> (who had four Preferments given him by the <hi>State</hi>) would needs teach us how to live by a Word: <hi>You'll ask</hi> (ſaid he) <hi>what Word is that? 'tis Faith, get Faith and I'll under<g ref="char:EOLhyphen"/>take you may live Gentleman like:</hi> but that Raſcall brake his own word with me, and dyed Twelve pound in my debt. I grant he was firſt that told me my Surname came from a King of <hi>Rome,</hi> call'd (as I remember) <hi>Turkquintus Suparbus:</hi> there were <hi>ſeven</hi> of thoſe <hi>Kings,</hi> but they are long ſince dead, and thence men call me <hi>one of the ſeven deadly ſinnes,</hi> they may as well call me one of the <hi>ſeven Wiſemen,</hi> or one of the <hi>ſeven Planets</hi> or <hi>ſeven Wonders of the World.</hi> But if we cre<g ref="char:EOLhyphen"/>dit ſuch as Hee, 'tis a very hard thing <hi>not</hi> to be a <hi>King.</hi> They'll prove (if you'll pay them) that <hi>Rhombus</hi> and <hi>Remus</hi> that founded <hi>Rome</hi> were of <hi>Engliſh</hi> extraction; (I know not whether we had the ſame Mother, but 'tis ſaid many of us had the ſame <hi>Nurſe.</hi>) But I never
+<pb n="6" facs="tcp:43694:4"/> ca<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'d three pence for their Praiſe; therefore I pray ye vex not my <hi>Corps</hi> with a huge <hi>Monument,</hi> which cannot protect it ſelf, nor me; and ma<g ref="char:EOLhyphen"/>ny a man's Bones had ſlept in quiet if his prating <hi>Tomb</hi> had not told where he lay. And trouble not my Ghoſt with any of their <hi>Elegies, Latin</hi> or <hi>Engliſh;</hi> they make a man but laught at, and are not worth a handfull of <hi>Graines.</hi> I do not mean <hi>Mr George VVithers<g ref="char:punc">▪</g>
+               </hi> for He got the <hi>Statute Office</hi> by Riming: he hath now told that <hi>Office,</hi> but when will he ſell his Verſes? a <hi>Statute</hi> lyes upon <hi>them</hi> ſo as no body will buy them. 'Tis not a Month ſince one of the <hi>State's</hi> Poets brought mean <hi>Anagram</hi> for me and my Wife: but I hear thoſe <hi>Anagram<g ref="char:EOLhyphen"/>mers</hi> ſhould be all fetcht into a Court of <hi>Wards,</hi> for although they have not Wit enough for <hi>Lunatiks,</hi> they are dull enough for <hi>Idiots.</hi> But now they'll all at me: what a heap of paltry <hi>Quibbles</hi> and <hi>Clenches</hi> will they throw upon me? you'll hear them cry, <hi>Now Pride hath a fall,—Now there are but ſix deadly ſinnes.—O, Sir, are you there with your Beares?</hi> They but ſaw me ſtand, holding my Crab-tree cud<g ref="char:EOLhyphen"/>gell upright, and they cry'd, <hi>Lo, there's the Bear and the ragged ſtaff!</hi> How have they dragg'd my poor Name, &amp; ſet me back from P to B to make me born in <hi>Bride's</hi> Church Porch? 'tis falſe and Non-ſence to call <hi>me</hi> BR<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>DE, though my <hi>Wife</hi> was ſo when I <hi>led</hi> her to Church. I know they'll tell you of my Letter to a Friend where (inſtead of <hi>my beſt Beer</hi>) I wrote that I had ſent <hi>my beſt Bear.</hi> But all Letters &amp; Books are falſe; there's none of them honeſt except the <hi>Bible.</hi> I have an A<g ref="char:EOLhyphen"/>bridgement of an <hi>Engliſh Chronicle</hi> which drowns the Duke of <hi>Cla<g ref="char:EOLhyphen"/>rence</hi> in a <hi>Rundlet of Malmſey</hi> (the Duke might as ſoon be drownd in a <hi>Thimble;</hi>) but perhaps tis a whole <hi>Tonn</hi> in the <hi>Chronicle,</hi> for my book is but a <hi>'<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itome.</hi> Hang Names and Words; <hi>Greek</hi> and <hi>Latin</hi> will not make an honeſt man; and a man may ſpeak Truth without true ſpelling, I remember when I dined with the <hi>Florida</hi> Ambaſſadour at Alderman <hi>Nowel's,</hi> where we had <hi>Florence</hi> wines, I told the Alder<g ref="char:EOLhyphen"/>man that <hi>when that Ambaſſadour got home to his Countrey he might ſend us more of that</hi> Florida <hi>wine:</hi> They all ſmil'd; but whar car'd I? 'twere not two pence to me if <hi>Florida</hi> were in <hi>Italy,</hi> and <hi>Florence</hi> in the <hi>Indies:</hi> they ſhould remember I was a <hi>Brewer,</hi> not a <hi>Vintner.</hi> But I am poſting thither where there are no <hi>Quibbles;</hi> though I fear (in the weak condition I am now) I my ſelf have bin forc'd upon many: for Dy<g ref="char:EOLhyphen"/>ing men talk idly; and he that is ſick and talks much, can hardly eſcape from <hi>Quibbles</hi> or <hi>Non-ſence.</hi> And I hope you'll pardon my <hi>bait<g ref="char:EOLhyphen"/>ing</hi> your Patience ſo long with the <hi>Beares:</hi> conſider it was the great Action of my Life, and the onely thing (in the opinion of many) that would lye upon my Conſcience. I confeſſe I thought the Leaſe of my
+<pb n="7" facs="tcp:43694:4"/> Life had not b'n expir'd; there is Breath enough in the world, but I muſt have no more of it. For Dea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h, Death is the grand <hi>Malignant;</hi> and a <hi>Malignant Feaver</hi> is his <hi>Lievetenant Generall,</hi> and (which is worſe) this <hi>New Diſeaſe</hi> is his <hi>Major General,</hi> a Diſeaſe which ſweeps through all Counties of <hi>England.</hi> And though the Weekly <hi>Bills of Mortality</hi> know not us who dy in the Countrey; yet tis my comfort I dye here in my own Houſe at <hi>Non-ſuch.</hi> 'Twas the <hi>Kings</hi> Houſe, and Queen <hi>Eli<g ref="char:EOLhyphen"/>zabeth</hi> lov'd this above all her Houſes; and ſome ſay my wife looks like that Queen, though the old Earl of <hi>Mancheſter</hi> was ſaid to look like Her; (That <hi>Queen</hi> might look like whom ſhe pleaſed, for She by <hi>Pro<g ref="char:EOLhyphen"/>clamation</hi> for bad any to draw her <hi>Picture;</hi>) but I would not have <hi>my</hi> Wife like both <hi>Her</hi> and <hi>Him,</hi> and ſo make her a <hi>'Maphrodite.</hi> She hath brought me divers Sons; and I leave them good Eſtates: (I hope I do) and would gladly leave a good name to keep them company. The very <hi>Malignants</hi> ſay my Sons are civil perſons: But ſhould I live a thouſand yeares they would not ſay ſo of <hi>me:</hi> I think 'twould not trouble them to ſee me renew acquaintance with my <hi>Sling.</hi> But how many know yee, that (raiſed like me to Power and Com<g ref="char:EOLhyphen"/>mand) have willingly returned to the place from whence they came? They talk indeed of a <hi>Roman</hi> Generall who came from the Plough (<hi>Dick Tator</hi> I think they call him) who having beat the Enemy went home to the Countrey, rich and renowned for a very wiſe man. And they ſay if that pittifull pilchard <hi>Maſſanello</hi> (who had a hundred thou<g ref="char:EOLhyphen"/>ſand at his pleaſure) had left his command, hee had not been rewarded with a muſquet bullet, but had been honoured with a ſtatue of Gold. 'Tis true the Queen of <hi>Sweden,</hi> though born a <hi>Kings</hi> Daughter, reſign'd her <hi>Crown,</hi> and vows ſhee never lived happy til now. But her <hi>Succeſſor</hi> love's <hi>Kingdoms</hi> better then ſo, and will onely have as many as hee can get. Hee ſoon ſwallow'd <hi>Poland,</hi> and as ſoon diſgorgd it: and is now in <hi>Danemark,</hi> holding two Forts (with two hard names) which ſtand like our <hi>Graves-end</hi> and <hi>Tilbury:</hi> and had he ſtrength to take Ours too, <hi>I</hi> think in my Conſcience hee would make us all <hi>Danes.</hi> Hee has many Deſigns: but all my Deſign is onely to ſave my <hi>Estate</hi> and my <hi>Soul.</hi> Indeed heretofore I had ſome little Plotts, but they did not all take: I thought to make the ſame Horſes ſerve both for my <hi>Coach</hi> and <hi>Dray,</hi> but I found my <hi>Dray-horſes</hi> were too high ſhod, and <hi>I</hi> might as well have Harneſſ'd the <hi>Beares.</hi> And yet I know what be<g ref="char:EOLhyphen"/>longs to <hi>Horſes:</hi> for I was the firſt brought <hi>Horſes</hi> into <hi>Paul's:</hi> and thoſe <hi>Horſes</hi> brought Saddles, for a <hi>Sadler</hi> hath ſet up another <hi>Exchange</hi> there. I was told <hi>Epſham</hi> water might do mee good, but I durſt not take it, having uſ'd the <hi>Vicar</hi> ſo very ſeverely, loſt that <hi>Pa<g ref="char:EOLhyphen"/>riſh Prieſt</hi> ſhould unhallow the <hi>Well:</hi> and (to ſay truth) from my <hi>Youth</hi>
+               <pb n="8" facs="tcp:43694:5"/> I never uſed to drink Wa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er. My <hi>Youth</hi> minds mee of the late Earle of <hi>Pembroke:</hi> for w<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n hee lay dying (as I do now) I went to viſit him, and when they to<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> him Colonel <hi>Pride</hi> was there (for then I was but Colonel) <hi>who?</hi> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> (ſaid hee) <hi>Pride? oh, a precious Youth!</hi> But what had hee to do with my <hi>Youth?</hi> had I ſuch ſtrength and health as in my <hi>Youth,</hi> I would no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> change with any Lord in <hi>England.</hi> I now die a <hi>Lord,</hi> and had I l<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> long as that <hi>Earle</hi> I might have been an Earle as well as hee. And <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> firſt of all the new Lords, whereby you'll ſee whether our <hi>Sonn<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>eed us in the <hi>Peerage.</hi> I would have no <hi>Barons Warr:</hi> though I fea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a world of Doubts will be raiſ'd about the <hi>Other Houſe<g ref="char:punc">▪</g>
+               </hi> They'll pu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it to the queſtion Whether <hi>our Houſe</hi> bee within the <hi>Act</hi> againſt <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Buildings?</hi> and (if within the <hi>Act</hi>) Whe<g ref="char:EOLhyphen"/>ther as built upon a <hi>new f<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>dation,</hi> or becauſe 'tis a <hi>Cottage?</hi> Then (af<g ref="char:EOLhyphen"/>ter the Foundation) have a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Roof; Whether it be <hi>Tyled</hi> or <hi>Tbatcht,</hi> (I do not mean by <hi>Wat Tyler</hi> or <hi>Jack-Straw</hi>) Whether it bee the <hi>Vpper Houſe</hi> or a <hi>Garret,</hi> where old <hi>Shooes,</hi> old <hi>Casks,</hi> &amp; ſuch Lumber is plac'd? Whether this <hi>High Court</hi> bee a <hi>Court of Warr,</hi> where none ſit but <hi>Offi<g ref="char:EOLhyphen"/>cers?</hi> with a hundred ſuch queſtions too many for a Dying man to re<g ref="char:EOLhyphen"/>member. And truly himſelf have been much puzzled with this <hi>Other Houſe:</hi> for the <hi>Common <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Houſe</hi> &amp; <hi>ours</hi> is the <hi>other</hi>
+               <g ref="char:punc">▪</g> &amp; <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is one Houſe &amp; <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>other,</hi> &amp; who can <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rewhouſe,</hi> hee <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> if I mean to <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ouſe,</hi> then goes he to <hi>Kingston:</hi> when he re<g ref="char:EOLhyphen"/>turn<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I ſend him to my <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Houſe,</hi> then goes hee to <hi>London:</hi> and when hee comes back I bid him <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> to <hi>Kingſton</hi> or <hi>London,</hi> but to the <hi>other Houſe,</hi> and then muſt hee <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arch to <hi>Edenburgh.</hi> Thus a man muſt run though two Nations ere <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> can finde this <hi>other Houſe:</hi> for <hi>this</hi> is the <hi>other</hi> and <hi>that</hi> is the <hi>other</hi> and all are the <hi>other Houſe:</hi> though ſure our <hi>Houſe</hi> of <hi>Peers</hi> is ſuch as <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ere <hi>cannot</hi> be ſuch an <hi>other Houſe.</hi> I hope 'tis no offence in <hi>mee</hi> to co<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pare the <hi>Houſe</hi> of <hi>Lords</hi> to a <hi>Brewhouſe:</hi> for I am of <hi>both Houſes:</hi> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow how men are at work in both, &amp; what great Heats are often in bo<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> &amp; how in both they all work for one man, yet every man for himſelf with twenty more things wherein the <hi>two Houſes</hi> agree. The difference is, that wee took the <hi>Engagement</hi> againſt a <hi>Houſe of Lords,</hi> but not ag<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nſt a <hi>Brew-houſe.</hi> But that was meant of the <hi>old</hi> Houſe of <hi>Peers,</hi> not the <hi>new:</hi> and a <hi>new</hi> Houſe is worth two old ones, for the <hi>Stare</hi> hath a whole years Rent of a <hi>new</hi> Houſe if it ſtand within ten miles of <hi>London.</hi> But alas <hi>(my good Friends)</hi> I am now going to the <hi>Lower Houſe,</hi> whithe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we all muſt go ſooner or later and the beſt &amp; greateſt Lord of us all had other go to the <hi>other Houſe</hi> then to the <hi>other VVorld:</hi> for no <hi>Brew-houſe</hi> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>there, but a great hot <hi>Oven</hi> that will never be cold. Therefore take <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d, for <hi>as we Brew, ſo muſt we Bake.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
